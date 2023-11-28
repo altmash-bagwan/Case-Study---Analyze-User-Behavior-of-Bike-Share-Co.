@@ -2,12 +2,13 @@
 
 This is a capstone project as a part of my Google Data Analytics Professional Certificate course. For the analysis I will be using R programming language and RStudio IDE for it's easy statistical analysis tools and data visualizations.
 
-For this project following data analysis steps will be followed :  ### 1.Ask
-                                                                   ### 2.Prepare
-                                                                   ### 3.Process
-                                                                   ### 4.Analyze
-                                                                   ### 5.Share
-                                                                   ### 6.Act
+For this project following data analysis steps will be followed :  
+#### 1.Ask 
+#### 2.Prepare 
+#### 3.Process 
+#### 4.Analyze 
+#### 5.Share 
+#### 6.Act
 
 ## Scenario
 
